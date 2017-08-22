@@ -4,7 +4,7 @@ public static void main(String[] args)
 {
 for(int i = 1; i<=10;i++)
 {
-System.out.println("Chinmaya.." +i);
+System.out.println("kuch b.." +i);
 }
 }
 }
